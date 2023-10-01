@@ -1,13 +1,13 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+[[MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Prince Pal</h1>
-<h3 align="center">A passionate Full Stack Dev from India</h3>
+<h3 align="center">MERN Stack Developer 🌐 | Dedicated to crafting innovative web applications</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hustlerzzz&label=Profile%20views&color=0e75b6&style=flat" alt="hustlerzzz" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently mastering my **MERN Stack** skills
 
-- 💬 Ask me about **CSS,TailwindCss, JavaScript & ReactJs**
+- 💬 Ask me about **ReactJs, NodeJs, ExpressJs, TailwindCSS, Redux, MongoDB, TypeScript**
 
 - 📫 How to reach me **rishabpal2000@gmail.com**
 
