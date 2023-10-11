@@ -22,8 +22,3 @@
 
 [![An image of @hustlerzzz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hustlerzzz)](https://holopin.io/@hustlerzzz)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hustlerzzz&show_icons=true&locale=en&layout=compact" alt="hustlerzzz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hustlerzzz&show_icons=true&locale=en" alt="hustlerzzz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hustlerzzz&" alt="hustlerzzz" /></p>
